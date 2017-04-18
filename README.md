@@ -5,11 +5,11 @@ Learn python and flask,just a tony blog system based on flask and mysql
 It is similar to [cleanblog](https://github.com/defshine/cleanblog), a blog system based on flask and mongoengine  
 
 
-###Version:v0.2-dev  
+### Version:v0.2-dev  
 
-##Use:    
+## Use:    
   
-###Backend:  
+### Backend:  
 
   1. [Flask](http://flask.pocoo.org/)
   2. [Flask-SQLAlchemy](https://pythonhosted.org/Flask-SQLAlchemy/) ORM for mysql  
@@ -19,22 +19,22 @@ It is similar to [cleanblog](https://github.com/defshine/cleanblog), a blog syst
   6. [Flask-Script](http://flask-script.readthedocs.org/en/latest/)  
   7. [Flask-Cache](http://www.pythondoc.com/flask-cache/index.html)  
   
-###Web:  
+### Web:  
   
   1. [Bootstrap-3.2.0](http://getbootstrap.com/)  
   2. [bootstrap-material-design](https://github.com/FezVrasta/bootstrap-material-design)      
   3. [CKEditor 4.4.7_standard](http://ckeditor.com/)
 
-##Finish:   
+## Finish:   
   
-####The basic function of blog:  
+#### The basic function of blog:  
   
  > Post:read,write,edit,delete  
  > Category:read,add,edit,delete  
  > Comment: use duoshuo  
  > Blogroll: add,list
      
-####Develop simple restful api  
+#### Develop simple restful api  
 
  <table>
     <tr>
@@ -69,12 +69,12 @@ It is similar to [cleanblog](https://github.com/defshine/cleanblog), a blog syst
     </tr> 
  </table>  
    
-##Todo   
+## Todo   
     
 1. Think more about restful api design  
 2. Develop simple android app
 
-##Deploy  
+## Deploy  
     
 Pelease see project wiki [Deploy Flask App on Ubuntu(Virtualenv+Gunicorn+Nginx+Supervisor)](https://github.com/defshine/flaskblog/wiki/Deploy-Flask-App-on-Ubuntu(Virtualenv-Gunicorn-Nginx-Supervisor))  
   
@@ -84,7 +84,7 @@ Pelease see project wiki [Deploy Flask App on Ubuntu(Virtualenv+Gunicorn+Nginx+S
 v0.2  
 v0.1    
  
-##Connect me  
+## Connect me  
 
 Life is short,you need python!
 If you are interested in this project, Join us!  
